@@ -4,7 +4,7 @@ A minimalistic wordpress starter theme powered with bootsrtap 4, jquery and gulp
 
 ## Installation
 - [download zip](https://github.com/hoseinhamzei/Wordpress-Headstart/archive/master.zip)
- - copy theme folder in wp-content/themes
+ - copy the theme folder to wp-content/themes
  - activate the theme in the admin panel
 ## Usage
  - this starter theme uses gulp for js(babel) and sass transpilation
